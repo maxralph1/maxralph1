@@ -1,6 +1,8 @@
 ### Hi, Max Ralph here 👋
 
-Full-stack software engineer. I architect (plan and design) and build applications from the ground up. I pay utmost, great attention to details and creating very secure, high-performing, scalable and attractive-looking applications.
+Full-stack software engineer.
+
+I architect (plan and design) and build applications from the ground up. I pay utmost, great attention to details and creating very secure, high-performing, scalable and attractive-looking applications.
 
 <div>
     <a href="https://stackoverflow.com/users/15151841/maximillian-raphaels">
@@ -128,9 +130,14 @@ English, Francais und Deutsch
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
 </div>
 
+---
+
 ## Projects
 
+---
+
 ## Some Frontend Code Challenges (coutesy: frontendmentor.io)
+
 
 
 <!--
