@@ -144,27 +144,25 @@ Ich spreche Deutsch
 ## Some Projects
 
 <div>
-<img src="./projects/blogy_social.gif" width=500 />
-
 BlogySocial blog and social media application.
 
 The app is crafted in Django and Bootstrap with flavors of JavaScript.
 
-[Link to repository ](https://github.com/maxralph1/blogy)
+[Link to repository](https://github.com/maxralph1/blogy)
 
+<img src="./projects/blogy_social.gif" width=500 />
 </div>
 
 ---
 
 <div>
-<img src="./frontendmentor/four-card-feature.png" height=500 />
+<!-- BlogySocial blog and social media application. -->
 
-Gem-Inn is a jewelry store / online store where users get to order and pay for jewelries on-the-go.
+<!-- The app is crafted in Django and Bootstrap with flavors of JavaScript. -->
 
-The app is crafted in Django and Bootstrap with flavors of JavaScript and JQuery.
+<!-- [Link to repository](https://github.com/maxralph1/blogy) -->
 
-[Link to repository ](https://github.com/maxralph1/gem-inn)
-
+<!-- <img src="./projects/blogy_social.gif" width=500 /> -->
 </div>
 
 <details>
