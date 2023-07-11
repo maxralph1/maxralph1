@@ -144,9 +144,9 @@ Ich spreche Deutsch
 ## Some Projects
 
 <div>
-BlogySocial blog and social media application.
+<h4>BlogySocial blog and social media application.</h4>
 
-The app is crafted in Django and Bootstrap with flavors of JavaScript.
+The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 
 [Link to repository](https://github.com/maxralph1/blogy)
 
@@ -156,9 +156,9 @@ The app is crafted in Django and Bootstrap with flavors of JavaScript.
 ---
 
 <div>
-<!-- BlogySocial blog and social media application. -->
+<!-- <h4>BlogySocial blog and social media application.</h4> -->
 
-<!-- The app is crafted in Django and Bootstrap with flavors of JavaScript. -->
+<!-- The app is crafted in Django and Bootstrap with some flavor of JavaScript. -->
 
 <!-- [Link to repository](https://github.com/maxralph1/blogy) -->
 
@@ -174,6 +174,8 @@ Check out the API projects I have pinned (the pinned apps section) here on my Gi
 [Click to scroll](#pinned-projects)
 
 </details>
+
+---
 
 ---
 
