@@ -144,21 +144,26 @@ Ich spreche Deutsch
 ## Some Projects
 
 <div>
+<img src="./projects/blogy_social.gif" width=500 />
 
 BlogySocial blog and social media application.
 
-[Link to repository ](https://github.com/maxralph1/blogy)<img src="./external-link.png" width=17.5 />
+The app is crafted in Django and Bootstrap with flavors of JavaScript.
+
+[Link to repository ](https://github.com/maxralph1/blogy)
 
 </div>
 
 ---
 
 <div>
-<img src="./frontendmentor/four-card-feature.png" width=500 />
+<img src="./frontendmentor/four-card-feature.png" height=500 />
 
-Four Card Feature Section challenge using flex, grid and mobile-first work-flow.
+Gem-Inn is a jewelry store / online store where users get to order and pay for jewelries on-the-go.
 
-[Live Website ](https://four-card-feature-section-nu-jet.vercel.app/)<img src="./external-link.png" width=17.5 />
+The app is crafted in Django and Bootstrap with flavors of JavaScript and JQuery.
+
+[Link to repository ](https://github.com/maxralph1/gem-inn)
 
 </div>
 
@@ -167,6 +172,9 @@ Four Card Feature Section challenge using flex, grid and mobile-first work-flow.
     <h4>Optional: More Projects</h4>
 </summary>
 Check out the API projects I have pinned (the pinned apps section) here on my GitHub profile. They are well-documentated (proper documentations (both for online and offline viewers)), have well illustrated (digrammatic representations of) database schema and app descriptions (descriptive write-ups for both the layman and technical users) on what these applications entail and how to go about using them.
+
+[Click to scroll](#pinned-projects)
+
 </details>
 
 ---
@@ -178,7 +186,7 @@ Check out the API projects I have pinned (the pinned apps section) here on my Gi
 
 Social Proof Section challenge using flex, mobile-first approach, no grid.
 
-[Live Website ](https://social-proof-section-xi-eosin.vercel.app/)<img src="./external-link.png" width=17.5 />
+[Link to repository ](https://github.com/maxralph1/social-proof-section) &nbsp;&nbsp; [Live Website ](https://social-proof-section-xi-eosin.vercel.app/)<img src="./external-link.png" width=17.5 />
 
 </div>
 
@@ -189,7 +197,7 @@ Social Proof Section challenge using flex, mobile-first approach, no grid.
 
 Four Card Feature Section challenge using flex, grid and mobile-first work-flow.
 
-[Live Website ](https://four-card-feature-section-nu-jet.vercel.app/)<img src="./external-link.png" width=17.5 />
+[Link to repository ](https://github.com/maxralph1/four-card-feature-section) &nbsp;&nbsp; [Live Website ](https://four-card-feature-section-nu-jet.vercel.app/)<img src="./external-link.png" width=17.5 />
 
 </div>
 
@@ -200,7 +208,7 @@ Four Card Feature Section challenge using flex, grid and mobile-first work-flow.
 
 NFT Preview Card Component using flexbox.
 
-[Live Website ](https://nft-preview-card-component-maxralph1.vercel.app/)<img src="./external-link.png" width=17.5 />
+[Link to repository ](https://github.com/maxralph1/nft-preview-card-component) &nbsp;&nbsp; [Live Website ](https://nft-preview-card-component-maxralph1.vercel.app/)<img src="./external-link.png" width=17.5 />
 
 </div>
 
@@ -211,7 +219,7 @@ NFT Preview Card Component using flexbox.
 
 Clipboard landing page utilizing scss, flexbox, grid, mobile-first approach.
 
-[Live Website ](https://clipboard-landing-page-virid-chi.vercel.app/)<img src="./external-link.png" width=17.5 />
+[Link to repository ](https://github.com/maxralph1/clipboard-landing-page) &nbsp;&nbsp; [Live Website ](https://clipboard-landing-page-virid-chi.vercel.app/)<img src="./external-link.png" width=17.5 />
 
 </div>
 
@@ -295,3 +303,5 @@ This Web.
 </div> -->
 
 ---
+
+## Pinned Projects
