@@ -4,15 +4,13 @@
 
 I architect (plan and design) and build api and web applications from the ground up. I pay utmost, great attention to details and creating very secure, high-performing, scalable and attractive-looking applications.
 
-Most importantly, I write comprehensive tests for my applications. And my API documentations are thoroughly prepared.
+Most importantly, I write comprehensive tests and documentations for my applications.
 
 My frontend web pages/applications are witten with responsiveness at the forefront.
 
-I am at the stage in my career where I know exactly what every single line of code I write does. No guesses or magic here. And I can read and basically have a clue of what another line of code is saying to me in almost any programming language (object-oriented or functional) I am yet to try.
+I am at the stage in my career where I know exactly what every single line of code I write does. No guesses or magic codes.
 
-I can debug anything in these languages and frameworks I use.
-
-In all, I do not simply code, I program systems.
+I can debug very well. An important skill I developed over the years, coding self-taught.
 
 Please, schedule a conversation with me to confirm these for yourself.
 
@@ -27,7 +25,7 @@ Please, schedule a conversation with me to confirm these for yourself.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=25 />
     </a> &nbsp; &nbsp;
     <br />
-    E-mail: <a href="" mailto="maxralph01@gmail.com">maxralph01@gmail.com
+    E-mail: <a href="#">maxralph01@gmail.com
     </a> &nbsp;
 </div>
 
@@ -143,35 +141,50 @@ Ich spreche Deutsch
 
 ## Some Projects
 
+\*\*Please note that there are so many features that cannot be highlighted in GIF format. Kindly visit the live web link to see more for yourself. You can even register on these sites.
+
 <div>
 <h4>BlogySocial blog and social media application.</h4>
 
 The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 
-[Link to repository](https://github.com/maxralph1/blogy)
+Users can create articles and topics, comment on topics and articles. They can also like articles, topics and authors. This application feels so beautiful both on mobile and desktop. Do give it a look at the live link and probably register to feel the indepth experience.
 
-<img src="./projects/blogy_social.gif" width=500 />
+[Link to repository](https://github.com/maxralph1/blogysocial) &nbsp; &nbsp; [Live Website ](https://blogysocial.up.railway.app/)<img src="./external-link.png" width=17.5 />
+<br />
+
+<tr>
+    <td><img src="./projects/blogy_social_mobile.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/blogy_social_00.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/blogy_social_01.gif" width=250 /></td>
+</tr>
 </div>
 
 ---
 
 <div>
-<!-- <h4>BlogySocial blog and social media application.</h4> -->
+<h4>Gem Inn Jewelry Store, Inventory and Online Store (E-Commerce) Application</h4>
 
-<!-- The app is crafted in Django and Bootstrap with some flavor of JavaScript. -->
+The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 
-<!-- [Link to repository](https://github.com/maxralph1/blogy) -->
+Shop owner can manage and keep track of their stock with this application. They can also use this application as an online outlet for their shop. Customers can purchase jewelries online and pay using cards or PayPal.
 
-<!-- <img src="./projects/blogy_social.gif" width=500 /> -->
+[Link to repository](https://github.com/maxralph1/geminn) &nbsp; &nbsp; [Live Website ](https://geminn.up.railway.app/)<img src="./external-link.png" width=17.5 />
+
+<tr>
+    <td><img src="./projects/gem_inn_mobile.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/gem_inn_00.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/gem_inn_01.gif" width=250 /></td>
+</tr>
 </div>
 
 <details>
 <summary>
     <h4>Optional: More Projects</h4>
 </summary>
-Check out the API projects I have pinned (the pinned apps section) here on my GitHub profile. They are well-documentated (proper documentations (both for online and offline viewers)), have well illustrated (digrammatic representations of) database schema and app descriptions (descriptive write-ups for both the layman and technical users) on what these applications entail and how to go about using them.
+Check out the API projects I have pinned (the pinned apps section) here on my GitHub profile. They are well-documented (proper documentations (both for online and offline viewers)), have well illustrated (digrammatic representations of) database schema and app descriptions (descriptive write-ups for both the layman and technical users) on what these applications entail and how to go about using them.
 
-[Click to scroll](#pinned-projects)
+[Click to scroll](#pins)
 
 </details>
 
@@ -215,13 +228,25 @@ NFT Preview Card Component using flexbox.
 ---
 
 <div>
-<img src="./frontendmentor/clipboard-landing-page.png" width=500 />
+<tr>
+    <td><img src="./frontendmentor/frontend_mentor_clipboard_landing_page_mobile.gif" width=250 /></td> &nbsp;
+    <td><img src="./frontendmentor/frontend_mentor_clipboard_landing_page.gif" width=250 /></td>
+</tr>
 
 Clipboard landing page utilizing scss, flexbox, grid, mobile-first approach.
 
 [Link to repository ](https://github.com/maxralph1/clipboard-landing-page) &nbsp;&nbsp; [Live Website ](https://clipboard-landing-page-virid-chi.vercel.app/)<img src="./external-link.png" width=17.5 />
 
 </div>
+
+<details>
+<summary>
+    <h4><h4>Optional: More frontendmentor.io Code Challenges</h4>
+</summary>
+
+You may wish to browse through my repositories. There are so many other frontendmentor projects I have. Their titles are boldly marked 'Frontenmentor'. I have left many important projects out as they would seem noisy on this front page.
+
+</details>
 
 <!-- <details>
 <summary>
@@ -304,4 +329,4 @@ This Web.
 
 ---
 
-## Pinned Projects
+###### pins
