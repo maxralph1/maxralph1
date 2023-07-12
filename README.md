@@ -151,6 +151,7 @@ The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 Users can create articles and topics, comment on topics and articles. They can also like articles, topics and authors. This application feels so beautiful both on mobile and desktop. Do give it a look at the live link and probably register to feel the indepth experience.
 
 [Link to repository](https://github.com/maxralph1/blogysocial) &nbsp; &nbsp; [Live Website ](https://blogysocial.up.railway.app/)<img src="./external-link.png" width=17.5 />
+
 <br />
 
 <tr>
@@ -170,6 +171,8 @@ The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 Shop owner can manage and keep track of their stock with this application. They can also use this application as an online outlet for their shop. Customers can purchase jewelries online and pay using cards or PayPal.
 
 [Link to repository](https://github.com/maxralph1/geminn) &nbsp; &nbsp; [Live Website ](https://geminn.up.railway.app/)<img src="./external-link.png" width=17.5 />
+
+<br />
 
 <tr>
     <td><img src="./projects/gem_inn_mobile.gif" width=250 /></td> &nbsp;
@@ -195,49 +198,55 @@ Check out the API projects I have pinned (the pinned apps section) here on my Gi
 ## Some Frontend Code Challenges (coutesy: frontendmentor.io)
 
 <div>
-<img src="./frontendmentor/social-proof-section.png" width=500 />
-
 Social Proof Section challenge using flex, mobile-first approach, no grid.
 
 [Link to repository ](https://github.com/maxralph1/social-proof-section) &nbsp;&nbsp; [Live Website ](https://social-proof-section-xi-eosin.vercel.app/)<img src="./external-link.png" width=17.5 />
 
+<br />
+
+<img src="./frontendmentor/social-proof-section.png" width=500 />
 </div>
 
 ---
 
 <div>
-<img src="./frontendmentor/four-card-feature.png" width=500 />
-
 Four Card Feature Section challenge using flex, grid and mobile-first work-flow.
 
 [Link to repository ](https://github.com/maxralph1/four-card-feature-section) &nbsp;&nbsp; [Live Website ](https://four-card-feature-section-nu-jet.vercel.app/)<img src="./external-link.png" width=17.5 />
 
+<br />
+
+<img src="./frontendmentor/four-card-feature.png" width=500 />
 </div>
 
 ---
 
 <div>
-<img src="./frontendmentor/nft-preview.png" width=500 />
-
 NFT Preview Card Component using flexbox.
 
 [Link to repository ](https://github.com/maxralph1/nft-preview-card-component) &nbsp;&nbsp; [Live Website ](https://nft-preview-card-component-maxralph1.vercel.app/)<img src="./external-link.png" width=17.5 />
 
+<br />
+
+<img src="./frontendmentor/nft-preview.png" width=500 />
 </div>
 
 ---
 
 <div>
-<tr>
-    <td><img src="./frontendmentor/frontend_mentor_clipboard_landing_page_mobile.gif" width=250 /></td> &nbsp;
-    <td><img src="./frontendmentor/frontend_mentor_clipboard_landing_page.gif" width=250 /></td>
-</tr>
-
 Clipboard landing page utilizing scss, flexbox, grid, mobile-first approach.
 
 [Link to repository ](https://github.com/maxralph1/clipboard-landing-page) &nbsp;&nbsp; [Live Website ](https://clipboard-landing-page-virid-chi.vercel.app/)<img src="./external-link.png" width=17.5 />
 
+<br />
+<tr>
+    <td><img src="./frontendmentor/frontend_mentor_clipboard_landing_page_mobile.gif" width=250 /></td> &nbsp;
+    <td><img src="./frontendmentor/frontend_mentor_clipboard_landing_page.gif" width=250 /></td>
+</tr>
 </div>
+
+<br />
+<br />
 
 <details>
 <summary>
