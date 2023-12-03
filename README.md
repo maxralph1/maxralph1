@@ -93,6 +93,8 @@ From MDN, I polished my HTML, CSS skills. MDN demystified the once scary JavaScr
 
 I added Node.JS. I revised and updated my Django skills to include testing.
 
+To my skillset, I have also added C (thorough knowledge) and some C++ programming languages.
+
 And I decided to touch some functional programming. I have been experimenting with Elixir and its Phoenix framework as it is being presented as more approachable than Haskell.
 
 Later on, with the vanilla CSS skills I had obtained from MDN, the once scary TailwindCSS was just like plain old CSS, I got to realize to my amazement.
@@ -117,7 +119,9 @@ Ich spreche Deutsch
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width=95 /> &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width=95 /> &nbsp; &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=85 /> &nbsp; &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=120 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width=100 /> &nbsp; &nbsp;
