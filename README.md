@@ -138,6 +138,7 @@ Ich spreche Deutsch
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
+    <img src="./skillset/aws.png" width=100 /> &nbsp; &nbsp;
           
 </div>
 
