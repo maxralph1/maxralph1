@@ -155,7 +155,7 @@ The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 
 Users can create articles and topics, comment on topics and articles. They can also like articles, topics and authors. This application feels so beautiful both on mobile and desktop. Do give it a look at the live link and probably register to feel the indepth experience.
 
-[Link to repository](https://github.com/maxralph1/blogysocial) &nbsp; &nbsp; [Live Website ](https://blogysocial.up.railway.app/)<img src="./external-link.png" width=17.5 />
+[Link to repository](https://github.com/maxralph1/blogysocial) &nbsp; &nbsp; [Live Website ](http://204.236.220.59:8000/)<img src="./external-link.png" width=17.5 />
 
 <br />
 
@@ -175,7 +175,7 @@ The app is crafted in Django and Bootstrap with some flavor of JavaScript.
 
 Shop owner can manage and keep track of their stock with this application. They can also use this application as an online outlet for their shop. Customers can purchase jewelries online and pay using cards or PayPal.
 
-[Link to repository](https://github.com/maxralph1/geminn) &nbsp; &nbsp; [Live Website ](https://geminn.up.railway.app/)<img src="./external-link.png" width=17.5 />
+[Link to repository](https://github.com/maxralph1/geminn) &nbsp; &nbsp; [Live Website ](http://52.90.233.46:8001/)<img src="./external-link.png" width=17.5 />
 
 <br />
 
