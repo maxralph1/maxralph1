@@ -19,7 +19,7 @@ Please, schedule a conversation with me to confirm these for yourself.
         <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" width=25 />
     </a> &nbsp; &nbsp;
     <a href="https://codepen.io/maxralph">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width=25 />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width=25 />
     </a> &nbsp; &nbsp;
     <a href="https://twitter.com/jsuis_maxralph">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width=25 />
@@ -127,7 +127,7 @@ Ich spreche Deutsch
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width=100 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <!-- <img align="" class="w-8 h-8 shrink-0 transition-all duration-300 lg:w-12 lg:h-12" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="90"> -->
-    <img src="https://laravel.com//img/logotype.min.svg" alt="Laravel" class="hidden ml-4 lg:block" width="100" height="90"> &nbsp; &nbsp;
+    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="100" height="90"> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
@@ -144,7 +144,54 @@ Ich spreche Deutsch
 
 ---
 
-## Some Projects
+## Some Real-World (Freelancing) Projects for Clients
+
+\*\*Please note that there are so many features that cannot be highlighted in GIF format. Kindly visit the live web link to see more for yourself. You can even register on these sites.
+
+<div>
+<h4>Faansy Social Media / Content Creation application</h4>
+
+Content creators can share their moments/thoughts with their fans in text, image and video formats. Fans can subscribe to creators and follow their every updates. Fans and users alike have wallets on the application which they can fund and use to make in-app purchases; an option to pay directly with cards also exist. The application boasts of numerous features that are too may to list. You may [visit the features page](https://www.faansy.com/#/features)&nbsp;<img src="./external-link.png" width=17.5 /> to view the main features, or [register](https://www.faansy.com/#/create-account)&nbsp;<img src="./external-link.png" width=17.5 /> to have a first-hand experience of the app.
+
+The app is crafted in Laravel, React.JS and Bootstrap with some custom vanilla CSS to give it that unique appearance. When it comes to responsiveness, the application has its own unique mobile view that is different from the desktop view.
+
+[Link to repository](https://github.com/maxralph1/faansy-upwork) &nbsp; &nbsp; [Live Website ](http://faansy.com/)<img src="./external-link.png" width=17.5 />
+
+<br />
+
+<tr>
+    <td><img src="./projects/faansy_mobile.gif" height=250 /></td> &nbsp;
+    <td><img src="./projects/faansy_00.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/faansy_01.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/faansy_02.gif" width=250 /></td>
+</tr>
+</div>
+
+<!-- ---
+
+<div>
+<h4>News-Box blog and social media application</h4>
+
+The app is crafted in Django, React.JS and Bootstrap with some custom vanilla CSS to give it that unique appearance. \*\*There are lots of JavaScript algorithms that style (in a specific order) the page with posts.
+
+Users can create articles and topics, comment on topics and articles. They can also like articles, topics and authors. This application feels so beautiful both on mobile and desktop. Do give it a look at the live link and probably register to feel the indepth experience.
+
+[Link to repository](https://github.com/maxralph1/newsbox) &nbsp; &nbsp; [Live Website ](http://204.236.220.59:8000/)<img src="./external-link.png" width=17.5 />
+
+<br />
+
+<tr>
+    <td><img src="./projects/blogy_social_mobile.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/blogy_social_00.gif" width=250 /></td> &nbsp;
+    <td><img src="./projects/blogy_social_01.gif" width=250 /></td>
+</tr>
+</div> -->
+
+---
+
+---
+
+## Some Other Projects
 
 \*\*Please note that there are so many features that cannot be highlighted in GIF format. Kindly visit the live web link to see more for yourself. You can even register on these sites.
 
