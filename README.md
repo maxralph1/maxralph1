@@ -122,14 +122,17 @@ Ich spreche Deutsch
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" width=95 /> &nbsp; &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=85 /> &nbsp; &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=85 /> &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width=120 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width=100 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <!-- <img align="" class="w-8 h-8 shrink-0 transition-all duration-300 lg:w-12 lg:h-12" src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="90"> -->
-    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="100" height="90"> &nbsp; &nbsp;
+    <img src="https://laravel.com/img/logotype.min.svg" alt="Laravel" width="100" height="90"> &nbsp; &nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=85 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=100 /> &nbsp; &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=85 /> &nbsp; &nbsp;
